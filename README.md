@@ -1,1 +1,1 @@
-https://GenriJS.github.io/rsschool-cv/cv
+https://GenriJS.github.io/rsschool-cv/
